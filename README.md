@@ -1,6 +1,6 @@
-#HNG8 Stage-2 Resume Task
+# HNG8 Stage-2 Resume Task
 
-##Parts Included:
+## Parts Included:
 1. My Resume Page
 
 2. A section of the resume page to include HNG, Zuri and I4G Logos and link to their respective websites
